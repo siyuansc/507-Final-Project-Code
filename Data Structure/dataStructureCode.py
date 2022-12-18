@@ -228,4 +228,4 @@ dict = dict_2000 | dict_2010 | dict_2020
 json_cache = json.dumps(dict)
 file = open("tree_structure_file.json", "w")
 file.write(json_cache)
-file.close()
+file.close() 
