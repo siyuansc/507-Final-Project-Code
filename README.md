@@ -11,6 +11,7 @@ For my SI-507 final project, here are something you may want to know.
 <img width="1038" alt="image" src="https://user-images.githubusercontent.com/113861839/207991743-b96fe171-8b3c-4e3c-aac7-eeddf54acd89.png">
 
 - Brief Description of how to interact with my program
+  - Users can choose to view or not view a pop-up URL link direct to the miro to get an overview of how my program is arranged.
   - Users can choose to view the distribution of population data from four perspectives: year, state, race, and gender.
   - The program prompts the user with the perspective of how to approach the data and then types the data according to the user's choice. It is worth mentioning that you need to rerun the whole program if you want to look at the data from the state perspective after understanding the year perspective.
 
